@@ -15,7 +15,7 @@ Foram criadas 4 frases e analisadas afim de idenfificar o nível de confiança d
 
 
 ## Sentiment and opinion mining tryout
-01 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/1-ex-postit.png?raw=true)
+01 ![alt text](https://github.com/CrisMach/analisesentimentos/blob/main/inputs/LS-01.png?raw=true)
 02 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/2-ex-pessoas.png?raw=true)
 03 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/3-ex-postitamao.png?raw=true)
 
