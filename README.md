@@ -21,17 +21,19 @@ Observação: Em uma frase simples como esta o serviço avaliou com 100% de conf
 
 02 ![alt text](https://github.com/CrisMach/analisesentimentos/blob/main/inputs/LS-02.png?raw=true)
 
-Observação: Neste exemplo temos a palavra odeio como Assessment e abacaxi comotarget, onde não ficoou totalmente claro o motivo pelo qual o "Document Sentiment" apresenta 1% positivo 1% Neutro e 99% Negativo, entendo que a soma apresentada deveria totalizar 100% (esta questão será postada na comunidade).
+Observação: Neste exemplo temos a palavra odeio como Assessment e abacaxi comotarget, onde não ficoou totalmente claro o motivo pelo qual o "Document Sentiment" apresenta 1% positivo 1% Neutro e 99% Negativo, entendo que a soma apresentada deveria totalizar 100% (farei um post na comunidade).
 
-03 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/3-ex-postitamao.png?raw=true)
+03 ![alt text](https://github.com/CrisMach/analisesentimentos/blob/main/inputs/LS-03.png?raw=true)
 
-## Output - Resultados para Add captions to images
-01 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/1-cap-postit.png?raw=true)
-02 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/2-cap-pessoas.png?raw=true)
-03 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/3-cap-postitamao.png?raw=true)
+Observação: Neste exemplo o PC como target e a palavra Caro como assessment deram 99% de confiança sobre a negatividade da opinião, e 75% sobre o sentimento negativo para o documento.
+
+04 ![alt text](https://github.com/CrisMach/analisesentimentos/blob/main/inputs/LS-04.png?raw=true)
+
+Observação: Neste exemplo temos uma frase um pouco mais complexa onde houve um número maior de análises considerando palávras/frase positiva e negativa.
+
 
 ### Conclusão
-Os serviços de visão funcionaram muito bem, interessante notar que os corações não são entendidos m Extract Text from Images, mostrando outro caracter em seu lugar, o primeiro coração não esta totalmente preenchido e foi reconhecido como aspas duplas ", já o segundo está totalmente preenchido e foi reconhecido como hífen -
+O serviço análise de sentimentos do Language Studio funcionou bem, ficou uma dúvida referente ao segundo caso para o qual farei um post na comunidade e posteriormente informarei o resultado.
 
 ---
 
