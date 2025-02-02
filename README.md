@@ -16,7 +16,11 @@ Foram criadas 4 frases e analisadas afim de idenfificar o nível de confiança d
 
 ## Sentiment and opinion mining tryout
 01 ![alt text](https://github.com/CrisMach/analisesentimentos/blob/main/inputs/LS-01.png?raw=true)
-02 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/2-ex-pessoas.png?raw=true)
+Observação: Em uma frase simples como esta o serviço avaliou com 100% de confiança que o sentimento é positivo, sem demonstrar a segmentação das palavras chave
+
+02 ![alt text](https://github.com/CrisMach/analisesentimentos/blob/main/inputs/LS-02.png?raw=true)
+Observação: Neste exemplo temos a palavra odeio como Assessment e abacaxi comotarget, onde não ficoou totalmente claro o motivo pelo qual o "Document Sentiment" apresenta 1% positivo 1% Neutro e 99% Negativo, entendo que a soma apresentada deveria totalizar 100% (esta questão será postada na comunidade).
+
 03 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/3-ex-postitamao.png?raw=true)
 
 ## Output - Resultados para Add captions to images
